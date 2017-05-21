@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Freaklabs",
-          "url": "https://github.com/yquemener/freaklabs-boards/blob/master/boards/freaklabs-v1.0.0-manual-install.zip",
+          "url": "https://github.com/yquemener/freaklabs-boards/raw/master/boards/freaklabs-v1.0.0-manual-install.zip",
           "archiveFileName": "freaklabs-v1.0.0-manual-install.zip",
           "checksum": "SHA-256:d5969be61ed8ff3259778e10410ca7356e1fa509a5840680fbd2144808f55011",
           "size": "123384",
